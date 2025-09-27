@@ -23,6 +23,7 @@ const DEFAULT_PATH_MAPPINGS = {
 
 const HOMEPAGE_HTML = `<!DOCTYPE html>
   <html lang="zh-CN">
+
   
   <head>
 	  <meta charset="UTF-8">
@@ -513,3 +514,4 @@ export default {
 		return handleRequest(request, env);
 	},
 };
+
